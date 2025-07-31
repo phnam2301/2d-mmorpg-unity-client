@@ -1,4 +1,4 @@
-# 🎮 2D TBRPG Unity Client
+# 🎮 2D iRPG Turn-based Unity Client
 This is the Unity-based 2D client for an online turn-based role-playing game (RPG).
 The game features hero collection, strategic combat, and idle rewards.
 It connects to a modular backend for authentication, player data, and battle simulation.
